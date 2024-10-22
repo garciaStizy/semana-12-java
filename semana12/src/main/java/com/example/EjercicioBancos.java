@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class BancoSimple {
+public class EjercicioBancos {
     static String[] nombres = {"Julian CR7", "Garcia Ibraimobich", "Susi neymar"};
     static double[] saldos = {85,000, 120,000, 580,300};
 
